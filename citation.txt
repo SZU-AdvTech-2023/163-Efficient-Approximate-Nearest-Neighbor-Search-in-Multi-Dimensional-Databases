@@ -1,0 +1,6 @@
+@article{REPO163,
+    author = "Peng, Yun and Choi, Byron and Chan, Tsz Nam and Yang, Jianye and Xu, Jianliang",
+    journal = "Proc. ACM Manag. Data",
+    title = "{Efficient Approximate Nearest Neighbor Search in Multi-Dimensional Databases}",
+    year = "2023"
+}
